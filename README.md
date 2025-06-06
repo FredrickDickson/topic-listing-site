@@ -6,12 +6,6 @@ Built using a clean and elegant UI, this template is perfect for content platfor
 
 ---
 
-## 🌐 Live Demo
-
-_👉 [Insert your live URL here]_
-
----
-
 ## 🚀 Features
 
 - 🔎 Topic search with autocomplete
